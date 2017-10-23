@@ -8,5 +8,6 @@ Software Versions Used:-
 * Python 3.4,
 * Tensorflow r1.1,
 * Raspbian Lite Strecth, 
-* MATLAB 2016b
+* MATLAB 2016b however GNU Octave should also work
 * MNIST Tutorial from Tensorflow Respository
+* GNU parallela
