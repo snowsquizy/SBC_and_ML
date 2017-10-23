@@ -9,3 +9,4 @@ Software Versions Used:-
 * Tensorflow r1.0,
 * Raspbian Jessie, 
 * MATLAB 2016b
+* MNIST Tutorial from Tensorflow Respository
