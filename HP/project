@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# HYPER Parameter sweep
+#
+# The Variables to sweep are Layers, Neurons and Activation
+# $1 Layers
+# $2 Neurons
+# $3 Activation
+
+python3 controller.py --layers=$1 --neurons=$2 --activation=$3
