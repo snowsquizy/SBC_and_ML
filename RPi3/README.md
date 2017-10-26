@@ -122,3 +122,6 @@ sudo pip3 uninstall mock
 sudo pip3 install mock
 sudo pip3 install matplotlib
 ```
+
+## The completed Raspberry Pi Cluster
+![Raspberry Pi Cluster](https://github.com/snowsquizy/SBC_and_ML/blob/master/RPi3/20170918_163052.jpg)
