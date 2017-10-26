@@ -11,3 +11,8 @@ Software Versions Used:-
 * [MATLAB 2016b](https://au.mathworks.com/) however [GNU Octave](https://www.gnu.org/software/octave/) should work if you don't want to buy MATLAB Licence
 * [MNIST Tutorial](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist) from Tensorflow Respository
 * [GNU parallel](https://www.gnu.org/software/parallel/)
+
+
+Porgramming Logic
+
+![Programming Code Logic](https://github.com/snowsquizy/SBC_and_ML/blob/master/Programming%20Code%20Logic.png)
