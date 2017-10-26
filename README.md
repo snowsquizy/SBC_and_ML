@@ -13,6 +13,8 @@ Software Versions Used:-
 * [GNU parallel](https://www.gnu.org/software/parallel/)
 
 
-Porgramming Logic
+#### There were two machine learning problems tackled.  The MNIST_deep.py tutorial and a custom built machine learner the was taugh how to classify completed Tic Tac Toe games.
+
+The Tic Tac Toe Classifier programming code logic is shown below.
 
 ![Programming Code Logic](https://github.com/snowsquizy/SBC_and_ML/blob/master/Programming%20Code%20Logic.png)
