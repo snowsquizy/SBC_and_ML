@@ -39,3 +39,30 @@ File Format - CSV
 * Epoch Time Start
 * Epoch Finish Time
 * Total Run Time
+
+
+### 07log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - Hyper Parameter Sweep
+File Format - CSV
+* Hostname
+* Activation Function
+* Layers
+* Neurons
+* Total time
+* Epoch Time Start
+* Epoch Finish Time
+
+### 08log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - Hyper Parameter Sweep - 1 Layer
+File Format - CSV
+* Short Hostname (last two Characters)
+* Activation Function (1 - Tanh, 2 - Sigmoid)
+* Layers
+* Neurons
+* Total time
+
+### 09log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - Hyper Parameter Sweep - 2 Layers
+File Format - CSV
+* Short Hostname (last two Characters)
+* Activation Function (1 - Tanh, 2 - Sigmoid)
+* Layers
+* Neurons
+* Total time
