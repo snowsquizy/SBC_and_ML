@@ -81,6 +81,7 @@ File Format - CSV
 * Activation Function (1 - Tanh, 2 - Sigmoid)
 * Layers
 * Neurons
+* Accuracy
 * Total time
 
 ### 12log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - Hyper Parameter Sweep
@@ -89,6 +90,7 @@ File Format - CSV
 * Activation Function (1 - Tanh, 2 - Sigmoid)
 * Layers
 * Neurons
+* Accuracy
 * Total time
 
 ### 13log_a.dat - Tic Tac Toe - Desktop - Hyper Parameter Sweep - 10 by 10 board
@@ -97,6 +99,7 @@ File Format - CSV
 * Activation Function (1 - Tanh, 2 - Sigmoid)
 * Layers
 * Neurons
+* Accuracy
 * Total time
 
 ### 14log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - Hyper Parameter Sweep - 10 by 10 board
@@ -105,6 +108,7 @@ File Format - CSV
 * Activation Function (1 - Tanh, 2 - Sigmoid)
 * Layers
 * Neurons
+* Accuracy
 * Total time
 
 
@@ -114,6 +118,7 @@ File Format - CSV
 * Activation Function (1 - Tanh, 2 - Sigmoid)
 * Layers
 * Neurons
+* Accuracy
 * Total time
 
 
@@ -123,28 +128,37 @@ File Format - CSV
 * Activation Function (1 - Tanh, 2 - Sigmoid)
 * Layers
 * Neurons
+* Accuracy
 * Total time
 
 ### 17log_a.dat - Tic Tac Toe - Desktop - 10 by 10 Board
 File Format - CSV
-* Short Hostname (last two Characters)
-* Activation Function (1 - Tanh, 2 - Sigmoid)
-* Layers
-* Neurons
+* Hostname
+* Epoch Time Start
+* Epoch Time Finish
 * Total time
+* Accuracy Achieved
 
 ### 18log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - 1 PS and 4 Workers
 File Format - CSV
-* Short Hostname (last two Characters)
-* Activation Function (1 - Tanh, 2 - Sigmoid)
-* Layers
-* Neurons
+* Hostname
+* Epoch Time Start
+* Epoch Time Finish
 * Total time
+* Accuracy Achieved
 
 ### 19log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - 1 PS & 13 to 1 Workers - 10 by 10 Board
 File Format - CSV
-* Short Hostname (last two Characters)
-* Activation Function (1 - Tanh, 2 - Sigmoid)
-* Layers
-* Neurons
+* Hostname
+* Epoch Time Start
+* Epoch Time Finish
 * Total time
+* Accuracy Achieved
+
+### 20log_a.dat - Tic Tac Toe - K40 - 10 by 10 Board
+File Format - CSV
+* Hostname
+* Epoch Time Start
+* Epoch Time Finish
+* Total time
+* Accuracy Achieved
