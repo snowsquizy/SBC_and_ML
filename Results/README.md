@@ -66,3 +66,44 @@ File Format - CSV
 * Layers
 * Neurons
 * Total time
+
+### 10log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - Hyper Parameter Sweep - 3 Layers
+File Format - CSV
+* Short Hostname (last two Characters)
+* Activation Function (1 - Tanh, 2 - Sigmoid)
+* Layers
+* Neurons
+* Total time
+
+### 11log_a.dat - Tic Tac Toe - Desktop - Hyper Parameter Sweep
+File Format - CSV
+* Short Hostname (last two Characters)
+* Activation Function (1 - Tanh, 2 - Sigmoid)
+* Layers
+* Neurons
+* Total time
+
+### 12log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - Hyper Parameter Sweep
+File Format - CSV
+* Short Hostname (last two Characters)
+* Activation Function (1 - Tanh, 2 - Sigmoid)
+* Layers
+* Neurons
+* Total time
+
+### 13log_a.dat - Tic Tac Toe - Desktop - Hyper Parameter Sweep - 10 by 10 board
+File Format - CSV
+* Short Hostname (last two Characters)
+* Activation Function (1 - Tanh, 2 - Sigmoid)
+* Layers
+* Neurons
+* Total time
+
+### 14log_a.dat - Tic Tac Toe - Raspberry Pi Cluster - Hyper Parameter Sweep - 10 by 10 board
+File Format - CSV
+* Short Hostname (last two Characters)
+* Activation Function (1 - Tanh, 2 - Sigmoid)
+* Layers
+* Neurons
+* Total time
+
