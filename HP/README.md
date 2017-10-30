@@ -6,3 +6,4 @@ This code will run the 54 different hyper parameter combinations with the XX bei
 ```shell
 parallel -j XX project {} {} {} ::: 1 2 3 ::: 9 18 27 36 45 54 63 72 81 ::: tanh sigmoid
 ``` 
+[parallel manual page](https://www.gnu.org/software/parallel/man.html)
